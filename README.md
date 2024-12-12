@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* I’m @demirelakif
+I’m @demirelakif
 
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,django,express,figma,flask,github,java,mongodb,nextjs,nodejs,postman,react,tensorflow,ts,vscode,visualstudio,vercel,tailwind,solidity,selenium,python,postgres,opencv,mysql,jquery,git,dotnet,.wasm)](https://skillicons.dev)
